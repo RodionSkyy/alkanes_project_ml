@@ -1,1 +1,1 @@
-# alkanes_project_ml
+# Prediction of physico-chemical properties of alkanes
